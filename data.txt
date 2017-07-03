@@ -1,0 +1,7 @@
+1.This shows all the different ways we’re able to give our function
+2.cheese_and_crackers the val-3.ues it needs to print them. We can give
+3.it straight numbers. We can give it variables. We can give
+4.it math. We can even combine math and variables.
+5.In a way, the arguments to a function are kind of like our
+6.character when we make a variable.
+7.name something, you can usually pass it to a function as an argument.
